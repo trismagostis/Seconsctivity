@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="google">Google</string>
+    <string name="secondActivity">Second activity</string>
+</resources>
